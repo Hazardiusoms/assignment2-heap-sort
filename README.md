@@ -25,8 +25,7 @@ Currently lacks performance metrics and unit tests.
 Uses a basic gap sequence (n/2, n/4, …, 1), which does not guarantee sub-quadratic complexity.
 
 Repository shows minimal commits and could benefit from cleaner commit history and documentation.
-
-4. Empirical Results (Summary)
+Empirical Results (Summary)
 
 HeapSort: Benchmarks confirm O(n log n) growth. Performance scales smoothly from n = 100 to n = 100,000. Results match theoretical expectations.
 
